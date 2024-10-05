@@ -1,2 +1,2 @@
-MERHABA, BEN MURATHAN
-Java programlama dili ve Python programlama dili üzerinde eğitim almaktayım.
+MERHABA, BEN MURATHAN 
+Java ve Python programlama dili üzerinde eğitim almaktayım.
